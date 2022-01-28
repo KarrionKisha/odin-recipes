@@ -3,8 +3,13 @@
     background-color: hsla(300, 50%, 90%, .7);
 }
 button {
-    background-color: hsla(120, 60%, 70%, .5);
-  
+    background-color: #f7e8c8 ;
+    color: #77b1a3;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:auto;
+    width: auto;
 }
 
 #homeimg {
