@@ -1,6 +1,7 @@
 * {
     text-align: center;
     background-color: hsla(300, 50%, 90%, .7);
+    font-family: "Helvetica", "Monaco", sans-serif;
 }
 button {
     background-color: #FFc857;
@@ -23,9 +24,7 @@ a:link {
 a:hover {
     text-decoration: underline;
 }
-a:visited {
-    text-decoration: line-through;
-}
+
 #homeimg {
     display: block;
     margin-left: auto;
