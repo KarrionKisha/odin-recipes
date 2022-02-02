@@ -3,15 +3,29 @@
     background-color: hsla(300, 50%, 90%, .7);
 }
 button {
-    background-color: #f7e8c8 ;
-    color: #77b1a3;
+    background-color: #FFc857;
     display: block;
     margin-left: auto;
     margin-right: auto;
     height:auto;
     width: auto;
 }
-
+a {
+    background-color: #FFc857;
+    color: #2e4052;
+}
+a:active {
+    color: #bdd9bf;
+}
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited {
+    text-decoration: line-through;
+}
 #homeimg {
     display: block;
     margin-left: auto;
